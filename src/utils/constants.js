@@ -1,0 +1,10 @@
+import picture1 from '../assets/friend1.jpg'
+import picture2 from '../assets/friend2.jpg'
+import picture3 from '../assets/friend3.jpg'
+import picture4 from '../assets/friend4.jpg'
+import picture5 from '../assets/friend5.jpg'
+import picture6 from '../assets/friend6.jpg'
+import picture7 from '../assets/friend7.jpg'
+import picture8 from '../assets/friend8.jpg'
+import picture9 from '../assets/friend9.jpg'
+export const pictures = [picture1, picture2, picture3, picture4, picture5, picture6, picture7, picture8, picture9]
